@@ -178,9 +178,9 @@ void subMenuCadastros(void) {
 void ajuda(void) {
     system("cls");
     printf("\a\n");
-    printf("\nLUCRO\n\tO lucro é considerado todo o rendimento positivo obtido atraves de uma negociacao economica ou de qualquer outro genero. Na economia, o lucro e tudo o que foi ganhado ou recebido a partir de um ato de comercializacao financeira..\n");
-    printf("\nCAIXA DE CUSTO\n\tO preco de custo e aquele cobrado sobre os produtos ou servicos e equivale apenas ao custo necessario para a materia prima e mao de obra. Ou seja, nele nao e acrescentado o lucro por parte de quem vendera¡ o produto, nem valores referentes a estocagem, custos basicos..\n");
-    printf("\nMELHOR FORMA DE INVESTIR\n\Tao fundamental para a empresa manter certa reserva de seu lucro para eventuais necessidades ou imprevistos. Desta forma, em periodos de baixa ou mesmo falta de caixa, a empresa podera passar pelas ""turbulencias"" de forma muito mais tranquila e sem precisar recorrer a bancos ou outras intituicoes financeiras, consequentemente sem precisar pagar juros a terceiros...\n");
+    printf("\nLUCRO\n\t O lucro é considerado todo o rendimento positivo obtido atraves de uma negociacao economica ou de qualquer outro genero. Na economia, o lucro e tudo o que foi ganhado ou recebido a partir de um ato de comercializacao financeira..\n");
+    printf("\nCAIXA DE CUSTO\n\t O preco de custo e aquele cobrado sobre os produtos ou servicos e equivale apenas ao custo necessario para a materia prima e mao de obra. Ou seja, nele nao e acrescentado o lucro por parte de quem vendera¡ o produto, nem valores referentes a estocagem, custos basicos..\n");
+    printf("\nMELHOR FORMA DE INVESTIR\n\t Tao fundamental para a empresa manter certa reserva de seu lucro para eventuais necessidades ou imprevistos. Desta forma, em periodos de baixa ou mesmo falta de caixa, a empresa podera passar pelas ""turbulencias"" de forma muito mais tranquila e sem precisar recorrer a bancos ou outras intituicoes financeiras, consequentemente sem precisar pagar juros a terceiros...\n");
     printf("\t\t\tTecle <ENTER> para voltar");
     getch();
 }
